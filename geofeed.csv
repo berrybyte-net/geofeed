@@ -1,0 +1,7 @@
+# If there are any errors with the following data. Please contact noc@berrybyte.net
+
+# Hivelocity DAL-1 IPv6
+2605:F440:9600::/40,US,US-TX,Texas,75247
+
+# Hivelocity DAL-1 IPv4
+104.167.215.0/24,US,US-TX,Texas,75247
