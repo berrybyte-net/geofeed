@@ -21,3 +21,6 @@
 
 # BerryByte Limited Experimental Anycast Network IPv6
 2a06:a005:b80::/44,AU,AU-NSW,Sydney,2020
+
+# BerryByte Falkens
+2a06:a005:be0::/44,DE,DE-BY,Falkenstein,08223
